@@ -1,0 +1,11 @@
+# PHP
+.php_cs.cache
+
+# Docker
+docker-compose.override.yml
+
+# Bitrix
+www/upload/
+www/bitrix/cache/
+www/bitrix/html_pages/
+www/bitrix/managed_cache/
