@@ -1,0 +1,13 @@
+{
+    "name": "magnifico/bitrix-seed",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Denisenko",
+            "email": "im.denisenko@yandex.ru"
+        }
+    ],
+    "require": {
+
+    }
+}
