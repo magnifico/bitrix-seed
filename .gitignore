@@ -1,11 +1,17 @@
 # PHP
-.php_cs.cache
+*_cs.cache
 
 # Docker
-docker-compose.override.yml
+/docker-compose.override.yml
 
 # Bitrix
-www/upload/
-www/bitrix/cache/
-www/bitrix/html_pages/
-www/bitrix/managed_cache/
+/www/upload/
+/www/bitrix/cache/
+/www/bitrix/html_pages/
+/www/bitrix/stack_cache/
+/www/bitrix/managed_cache/
+/www/bitrix/catalog_export/
+/www/bitrix/backup/*
+!/www/bitrix/backup/index.php
+/www/bitrix/.settings.php
+/www/bitrix/php_interface/dbconn.php
